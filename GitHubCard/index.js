@@ -29,6 +29,7 @@
 */
 
 const followersArray = [];
+const followersArray = [];
 
 /*
   STEP 3: Create a function that accepts a single object as its only argument.
